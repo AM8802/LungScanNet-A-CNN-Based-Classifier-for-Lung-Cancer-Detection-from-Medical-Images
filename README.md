@@ -1,4 +1,4 @@
-🫁 Lung Cancer Detection Using CNN
+
 This project implements a Convolutional Neural Network (CNN) to classify lung cancer from grayscale medical images (e.g., CT scans or X-rays). The model is trained to distinguish between different types of lung cancer using a custom dataset organized into labeled folders.
 
 🔍 Features
@@ -15,6 +15,7 @@ Support for training/validation/test split
 EarlyStopping and ModelCheckpoint callbacks for efficient training
 
 🛠️ Technologies Used
+
 Python
 
 TensorFlow / Keras
