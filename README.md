@@ -26,3 +26,7 @@ NumPy
 Matplotlib
 
 scikit-learn
+
+
+Dataset
+ [https://www.kaggle.com/code/azazurrehmanbutt/lung-cancer-3-classes-transfer-learning-effb5/input](https://www.kaggle.com/datasets/rm1000/lung-cancer-histopathological-images?select=adenocarcinoma)
